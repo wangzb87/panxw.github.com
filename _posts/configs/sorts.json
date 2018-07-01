@@ -1,17 +1,29 @@
 {
     "": [
+        "linux \u76ee\u5f55.md", 
+        "\u89e3\u51b3git push \u8f93\u5165\u5bc6\u7801\u7684\u95ee\u9898.md", 
         "\u53d1\u5e03\u5230\u7b2c\u4e09\u65b9\u5e73\u53f0.md", 
         "2017-07-06-neteasy-gentie-stop.md", 
-        "jekyll\u4e00\u5c0f\u65f6\u5feb\u901f\u642d\u5efa+\u53d1\u5e03\u5230github.md"
+        "jekyll\u4e00\u5c0f\u65f6\u5feb\u901f\u642d\u5efa+\u53d1\u5e03\u5230github.md", 
+        "github sync wordpress!.txt", 
+        "github sync wordpress!.md"
     ], 
     "__positions": {
-        "\u53d1\u5e03\u5230\u7b2c\u4e09\u65b9\u5e73\u53f0.md": 1, 
-        "jekyll\u4e00\u5c0f\u65f6\u5feb\u901f\u642d\u5efa+\u53d1\u5e03\u5230github.md": 3, 
-        "2017-07-06-neteasy-gentie-stop.md": 2
+        "linux \u76ee\u5f55.md": 1, 
+        "github sync wordpress!.txt": 6, 
+        "\u53d1\u5e03\u5230\u7b2c\u4e09\u65b9\u5e73\u53f0.md": 3, 
+        "github sync wordpress!.md": 7, 
+        "jekyll\u4e00\u5c0f\u65f6\u5feb\u901f\u642d\u5efa+\u53d1\u5e03\u5230github.md": 5, 
+        "2017-07-06-neteasy-gentie-stop.md": 4, 
+        "\u89e3\u51b3git push \u8f93\u5165\u5bc6\u7801\u7684\u95ee\u9898.md": 2
     }, 
     "__raw_positions": {
-        "2017-07-06-neteasy-gentie-stop.md": 2, 
-        "jekyll\u4e00\u5c0f\u65f6\u5feb\u901f\u642d\u5efa+\u53d1\u5e03\u5230github.md": 3, 
-        "\u53d1\u5e03\u5230\u7b2c\u4e09\u65b9\u5e73\u53f0.md": 1
+        "linux \u76ee\u5f55.md": 1, 
+        "github sync wordpress!.txt": 6, 
+        "\u53d1\u5e03\u5230\u7b2c\u4e09\u65b9\u5e73\u53f0.md": 3, 
+        "github sync wordpress!.md": 7, 
+        "jekyll\u4e00\u5c0f\u65f6\u5feb\u901f\u642d\u5efa+\u53d1\u5e03\u5230github.md": 5, 
+        "2017-07-06-neteasy-gentie-stop.md": 4, 
+        "\u89e3\u51b3git push \u8f93\u5165\u5bc6\u7801\u7684\u95ee\u9898.md": 2
     }
 }

@@ -1,0 +1,17 @@
+GitHub sync WordPress
+那么如何将GitHub的markdown文件同步到WordPress上呢？ 需要用到一个WordPress插件：writing_on_github，具体的配置可以看Github页面上的如何配置。
+
+简略步骤如下：
+
+安装writing_on_github插件；在WordPress的插件管理页面中选择“安装插件”，搜索“writing on github”即可，安装后并激活。如有问题可查看安装。
+在GitHub上生成“Personal oauth token”,点此链接，勾选repo中的public_repo即可。 enter image description here 点击最下方的“Generate token”就会得到一个token。 复制下新生成的token值，后面会用到。 enter image description here
+
+登录到WordPress后台，writing_on_github设置页面。 setting 其中 Webhook密匙，自己设定一个强密码，后面在添加webhook的时候会用到。 项目名称填写自己要关联的项目。格式类似于coolMusk/test。
+
+在GitHub上，该项目的Settings页面，点击“Webhooks”，来添加webhook。webhook的作用是一旦GitHub有更新，就会同步到WordPress上。webhook setting
+然后会发现添加的webhook会立即ping一下所填写的PayLoad URL.如果你的webhook前面有个绿色的勾，则表示已经ping通。
+现在，可以欢快的在stackedit上写文章，同步到WordPress上了！
+
+3.参考资料
+https://github.com/litefeel/writing-on-github ,by litefeel
+https://developer.github.com/webhooks/, by GitHub
