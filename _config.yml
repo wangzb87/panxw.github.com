@@ -6,13 +6,13 @@ excerpt_separator: "<!-- more -->"
 github: panxw
 author: "panxw"
 email: winfirm#163.com
-name: "Panxw's Blog"
+name: "wangzb87's Blog"
 baseurl: /
-url: http://www.panxw.com
-domain: www.panxw.com
+url: http://www.data123.vip
+domain: www.data123.vip
 
 all_categories: [
-  ["android", "Android开发","/android/index.html"], 
+  ["android", "软件测试","/android/index.html"], 
   ["react", "React Native", "/react/index.html"],
   ["web", "Web建站","/web/index.html"], 
   ["linux", "Linux相关","/linux/index.html"],
