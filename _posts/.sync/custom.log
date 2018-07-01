@@ -12,3 +12,5 @@
 2018-07-01 20:10:37 sync ended
 2018-07-01 20:10:50 start to sync now
 2018-07-01 20:10:50 no need to sync to server, it is up-to-date.
+2018-07-01 20:10:50: sync-hook command failed, save details to error.log
+2018-07-01 20:10:50 sync ended
